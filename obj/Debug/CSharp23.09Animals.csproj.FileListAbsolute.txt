@@ -1,0 +1,7 @@
+C:\Users\dmaty\RiderProjects\CSharp23.09Animals\bin\Debug\CSharp23._09Animals.exe
+C:\Users\dmaty\RiderProjects\CSharp23.09Animals\bin\Debug\CSharp23._09Animals.pdb
+C:\Users\dmaty\RiderProjects\CSharp23.09Animals\obj\Debug\CSharp23.09Animals.csproj.AssemblyReference.cache
+C:\Users\dmaty\RiderProjects\CSharp23.09Animals\obj\Debug\CSharp23.09Animals.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmaty\RiderProjects\CSharp23.09Animals\obj\Debug\CSharp23.09Animals.csproj.CoreCompileInputs.cache
+C:\Users\dmaty\RiderProjects\CSharp23.09Animals\obj\Debug\CSharp23._09Animals.exe
+C:\Users\dmaty\RiderProjects\CSharp23.09Animals\obj\Debug\CSharp23._09Animals.pdb
